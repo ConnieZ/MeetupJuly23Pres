@@ -1,4 +1,4 @@
-MeetupJuly23Pres
+Meetup July 23 and August 20 Presentation Files
 ================
 
 Repo with presentation files for St. Louis Machine Learning and Data Science Meetup on July 23rd and August 20th, 2014
